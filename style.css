@@ -89,7 +89,7 @@ section {
     }
 }
 
-@media ((max-width: 400px) and (max-height: 700px)) {
+@media (max-width: 500px) {
   :root{
     --time: 8s;
     --translacion: 300px;
